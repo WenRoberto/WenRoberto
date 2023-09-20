@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @WenRoberto
 - 👀 I’m interested Gaming
-- 🌱 I’m currently learning Android Studio
+- 🌱 I’m currently learning Rakit PC
 - 💞️ I’m looking to collaborate on Mr.beast
 - 📫 How to reach me finlanlee24@gmail.com
 
